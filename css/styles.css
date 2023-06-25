@@ -400,11 +400,14 @@ ul {
 .footer-inner .text {
   max-width: 264px;
 }
+/* 
 
+
+*/
 .caption {
+  font-weight: 500;
   margin-bottom: 16px;
   color: var(--primary-white-color);
-  font-weight: 500;
 }
 
 .social-media-menu {
