@@ -403,6 +403,7 @@ ul {
 
 .caption {
   margin-bottom: 16px;
+  font-weight: 500;
   color: var(--primary-white-color);
 }
 
