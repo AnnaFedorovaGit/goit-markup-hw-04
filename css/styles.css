@@ -169,6 +169,7 @@ ul {
   padding-bottom: 188px;
   max-width: 1440px;
   background-size: cover;
+  background-color: var(--secondary-dark-color);
   background-image: linear-gradient(
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
@@ -397,13 +398,10 @@ ul {
   margin-right: 0;
 }
 
-.footer-inner .text {
+.footer-inner .info-text {
   max-width: 264px;
 }
-/* 
 
-
-*/
 .caption {
   font-weight: 500;
   margin-bottom: 16px;
